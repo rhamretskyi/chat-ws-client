@@ -1,0 +1,12 @@
+.messsageInputContainer {
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+    padding-bottom: 20px;
+    border-top: 1px solid #000000;
+    .messageInput {
+        padding-top: 10px;
+        margin: auto;
+        width: 50%;
+    }
+}

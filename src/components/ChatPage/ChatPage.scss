@@ -1,0 +1,21 @@
+.container {
+    padding: 10px 20px;
+    .chat, .users{
+        float: left;
+    }
+    .chat {
+        width: 80%;
+    }
+    .users {
+        width: 20%;
+    }
+    .row {
+        overflow: hidden;
+    }
+    .chat, .users {
+        >h4 {
+            margin: auto;
+            width: 50%;
+        }
+    }
+}
